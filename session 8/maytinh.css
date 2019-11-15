@@ -1,0 +1,31 @@
+.calc{
+    position:absolute;
+    background-color:#DCDCDC ;
+    width:300px;
+    height:350px;
+    
+  }
+  #disp{
+    display:block;
+    height:52px;
+    background-color: rgb(0, 0, 0);
+    margin:8px;
+  }
+  .calc button{
+    height:54px;
+    width:71px;
+    background-color:greenyellow;
+    margin : 0px;
+  }
+  #clear{
+    width:295px;
+  }
+  #disp{
+    font-size:45px;
+    text-align:right;
+    overflow:auto;
+    background-color:white;
+  }
+  #clear{
+      background-color: red;
+  }
